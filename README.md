@@ -79,5 +79,6 @@ The project was designed to answer the following business questions:
 
 ## Files Included
 
-- **Employee_Management_Project.sql** – Contains all SQL queries used to analyze the employee database.
+- **employee_workforce_salary_analysis.sql** – SQL queries used to anlyse the employee workforce and salary data.
 - **README.md** – Provides an overview of the project, including the project objective, business questions, key findings, and business recommendations.
+- **Employee_Workforce_and_Salary_Analysis_Report.pdf** - Complete project report containing the SQL queries, query results, interpretations, key findings, and business recommendations.
